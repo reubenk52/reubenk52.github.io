@@ -11,6 +11,6 @@ div {
 	width: 900px;
     border: 25px solid blue;
     padding: 25px;
-    margin: 25px;
+    margin: 25px auto;
 	text-align: center;
 }
